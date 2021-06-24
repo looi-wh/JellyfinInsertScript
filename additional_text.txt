@@ -1,0 +1,1 @@
+n+='<a is="emby-linkbutton" class="navMenuOption lnkMediaFolder" href="WEBSITE_LINK"><i class="md-icon navMenuOptionIcon"><img src="https://i.ibb.co/zhc7zKV/ombi10.png"></i><span class="navMenuOptionText">'+m.ZP.translate("TITLE")+"</span></a>",
