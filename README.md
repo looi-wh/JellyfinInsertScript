@@ -23,6 +23,7 @@ sudo apt install python3
 Script needs to be set up first before running.
 
 To setup:
+- Download insertScript.py and additional_text.txt into your jellyfin server
 - Edit additional_text.txt accordingly to your liking
 - Make sure additional_text.txt is right beside the python script
 
